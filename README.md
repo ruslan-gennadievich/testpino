@@ -13,4 +13,4 @@ https://github.com/ruslan-gennadievich/pino-socket
 
 3) npm i
 
-4) node index.js | node ./node_modules/pino-syslog | node ./node_modules/pino-socket -unixsocket /dev/log
+4) node index.js | node ./node_modules/pino-syslog | node ./node_modules/pino-socket --unixsocket /dev/log
