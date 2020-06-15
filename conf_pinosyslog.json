@@ -1,0 +1,11 @@
+{
+    "modern": true,
+    "appname": "none",
+    "cee": false,
+    "facility": 16,
+    "includeProperties": [],
+    "messageOnly": false,
+    "tz": "Etc/UTC",
+    "newline": true,
+    "structuredData": "-"
+  }  
