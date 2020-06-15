@@ -1,0 +1,13 @@
+{
+  "name": "ruslan-test-pino",
+  "version": "1.0.0",
+  "description": "Test project with custom pino-socket",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "pino": "*",
+    "pino-pretty": "*",
+    "pino-syslog": "*",
+    "pino-socket": "ruslan-gennadievich/pino-socket#master"
+  }
+}
